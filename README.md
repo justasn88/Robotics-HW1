@@ -2,6 +2,7 @@
 Projektas:
 
 Susimuliuotas ventiliatoriaus veikimas, kuris pradeda suktis, kai temperatūra viršija 25 0C arba oro drėgmė yra daugiau nei 50% . Tačiau jo sukimosi greitis priklauso ir nuo temperatūros ir oro drėgmės, kuo karščiau ir kuo didesnė oro drėgmė tuo greičiau sukasi. Be to prijungtas LCD ekranas, kuris rodo kokia drėgmė ir temperatūra 
+
 Dizainas:
 
 Arduino plokštė: Ji nuskaito jutiklio signalą, apdoroja duomenis ir priima sprendimus.
